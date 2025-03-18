@@ -1,3 +1,7 @@
 google-generativeai
 python-dotenv
 pydantic
+supabase
+python-fasthtml
+monsterUi
+pydantic

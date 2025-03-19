@@ -4,4 +4,4 @@ pydantic
 supabase
 python-fasthtml
 monsterUi
-pydantic
+pydantic_ai
